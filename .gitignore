@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+canvas_editor
+canvas_editor.exe
+*.exe
+*.app
+*.out
+
+# Dependencies
+*.d
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
